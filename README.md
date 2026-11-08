@@ -4,7 +4,7 @@
 
 ### Riding Beyond the Injury
 
-<img src="https://github.com/LostLimbRider/LostLimbRider/blob/main/assets/lost-limb-riders-tron-steampunk-animated.svg" width="100%">
+<img src="https://github.com/LostLimbRider/LostLimbRider/blob/main/assets/llr-4life-iowa-realistic-animated.svg">
 
 # "I CAN. I WILL."
 
