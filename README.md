@@ -10,8 +10,8 @@
 
 *A movement dedicated to proving that losing a limb doesn't mean losing your freedom.*
 
-[Website](#) • [Donate](#) • [Volunteer](https://lostlimbriders.org)
-
+[Website](https://lostlimbriders.org)
+ • [Donate](#) • [Volunteer]()
 ---
 
 </div>
